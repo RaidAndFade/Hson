@@ -1,9 +1,12 @@
-# Haxe project
+# Hson
+Haxe's builtin json is slow. This isn't as slow. Happy days.
 
-This is an example Haxe project scaffolded by Visual Studio Code.
+# Features
+- [x] Arrays
+- [x] Objects
+- [x] Strings
+- [x] Hexadecimal numbers
 
-Without further changes the structure is following:
-
- * `src/Main.hx`: Entry point Haxe source file
- * `build.hxml`: Haxe command line file used to build the project
- * `README.md`: This file
+# Optimised Languages
+- All (10-20% faster)
+- Java (30% faster)
