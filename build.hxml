@@ -1,0 +1,6 @@
+-cp src
+-D analyzer-optimize
+-main com.raidandfade.json.Json
+-debug 
+-java test/java/
+#--interp
